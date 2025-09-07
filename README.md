@@ -24,9 +24,10 @@
   <a href="https://www.linkedin.com/in/youssefkeshk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:youssefkeshk001@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=youssefkeshk001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
+
   <a href="https://www.facebook.com/youssef.amr.50999405" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
@@ -93,5 +94,6 @@
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Keshk.Youssef-Keshk" />
 </div>
+
 
 
