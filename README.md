@@ -7,9 +7,9 @@
 <p align="left">
     I'm <b style="font-size:15px;">Youssef Keshk</b> from Alexandria, Egypt.
     <br>
-    <b style="font-size:20px;">.</b> I’m an <b>undergraduate Computer and Software Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/" target="_blank">Faculty of Engineering, Alexandria University</a></b></b>.
+    <b style="font-size:40px;">.</b> I’m an <b>undergraduate Computer and Software Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/" target="_blank">Faculty of Engineering, Alexandria University</a></b></b>.
     <br>
-    <b style="font-size:20px;">.</b> I'm currently working as <b>software developer</b> at <b><a href="https://github.com/AquaphotonAcademy" target="_blank">Aquaphoton Academy</a></b>.
+    <b style="font-size:40px;">.</b> I'm currently working as <b>software developer</b> at <b><a href="https://github.com/AquaphotonAcademy" target="_blank">Aquaphoton Academy</a></b>.
 </p>
 
 <br>
@@ -93,3 +93,4 @@
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Keshk.Youssef-Keshk" />
 </div>
+
