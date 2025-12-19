@@ -6,15 +6,15 @@
 
 <p align="left">
     I'm <b style="font-size:15px;">Youssef Amr Keshk</b> from Alexandria, Egypt.
+    <br> 
+    <b style="font-size:40px;">-</b> I’m an <b>undergraduate Computer Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/about-us" target="_blank">Faculty of Engineering, Alexandria University</a></b></b>.
     <br>
-    <b style="font-size:40px;">-</b> I’m an <b>undergraduate Computer Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/" target="_blank">Faculty of Engineering, Alexandria University</a></b></b>.
-    <br>
-    <b style="font-size:40px;">-</b> I'm currently working as a <b>software engineer</b> at <b><a href="https://github.com/AquaphotonAcademy" target="_blank">Aquaphoton Academy</a></b>.
+    <b style="font-size:40px;">-</b> I'm currently working as a <b>software engineer</b> at <b><a href="https://www.linkedin.com/company/aquaphoton-academy-rov/posts/?feedView=all" target="_blank">Aquaphoton Academy</a></b>.
 </p>
 
 <br>
 
-[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1u9NXUJCb-agNITVIbGkYpBeI-f-8lA1r/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1U_MGLsCJy9PO5-zEczDAEl6vQiXaowFk/view?usp=sharing)
 
 
 
@@ -78,11 +78,11 @@
 </div>
 
 
-<br><br>
+<!-- <br><br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Youssef-Keshk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 
 ###
@@ -92,6 +92,7 @@
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-Keshk.Youssef-Keshk" />
 </div>
+
 
 
 
