@@ -14,7 +14,7 @@
 
 <br>
 
-[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1yuewFdfbLQ6wckR5gZeZngipXI_CYYl2/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1Jlm_FWUEF1QTL_bSwo2uJEDbFfbrS0kH/view?usp=sharing)
 
 
 
