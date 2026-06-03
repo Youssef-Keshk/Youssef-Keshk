@@ -14,7 +14,7 @@
 
 <br>
 
-[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1eqeDDvT8ktivwa4barPxI7ybwA2O0a0E/view?usp=sharing).
+[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1b2yyySPMtE5oQAitSaeInCwnEoHMhQmi/view?usp=sharing).
 
 <h3 align="left">🌐 Connect with me</h3>
 
