@@ -7,7 +7,7 @@
 <p align="left">
     I'm <b style="font-size:15px;">Youssef Amr Keshk</b> from Alexandria, Egypt.
     <br> 
-    <b style="font-size:40px;">-</b> <b>Undergraduate Computer Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/about-us" target="_blank">Faculty of Engineering, Alexandria University</a></b>.
+    <b style="font-size:40px;">-</b> <b>Senior Computer Engineering Student</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/about-us" target="_blank">Faculty of Engineering, Alexandria University</a></b>.
     <br>
     <b style="font-size:40px;">-</b> <b>Software Engineering Intern</b> at <b><a href="https://www.valeo.com/en/" target="_blank">Valeo</a>, Egypt</b>.
     <br>
