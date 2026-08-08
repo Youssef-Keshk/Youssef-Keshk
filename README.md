@@ -2,19 +2,26 @@
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
     I'm <b style="font-size:15px;">Youssef Amr Keshk</b> from Alexandria, Egypt.
     <br> 
-    <b style="font-size:40px;">-</b> I’m an <b>undergraduate Computer Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/about-us" target="_blank">Faculty of Engineering, Alexandria University</a></b></b>.
+    <b style="font-size:40px;">-</b> <b>Undergraduate Computer Engineer</b> at <b><a href="https://eng.alexu.edu.eg/index.php/en/about-us" target="_blank">Faculty of Engineering, Alexandria University</a></b>.
     <br>
-    <b style="font-size:40px;">-</b> I'm currently working as a <b>software engineer</b> at <b><a href="https://www.linkedin.com/company/aquaphoton-academy-rov/posts/?feedView=all" target="_blank">Aquaphoton Academy</a></b>.
+    <b style="font-size:40px;">-</b> <b>Software Engineering Intern</b> at <b><a href="https://www.valeo.com/en/" target="_blank">Valeo</a>, Egypt</b>.
+    <br>
+    <b style="font-size:40px;">-</b> <b>Software Engineer</b> at <b><a href="https://www.linkedin.com/company/aquaphoton-academy-rov" target="_blank">Aquaphoton Academy</a> (Alexandria University robotics team)</b>.
 </p>
 
 <br>
 
+
+<!-- 
 [![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1b2yyySPMtE5oQAitSaeInCwnEoHMhQmi/view?usp=sharing).
+[![Resume](https://img.shields.io/badge/Resume-Check%20Now-blue?style=for-the-badge&logo=document&logoColor=white)](https://drive.google.com/file/d/1b2yyySPMtE5oQAitSaeInCwnEoHMhQmi/view?usp=sharing)
+-->
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=file-text&logoColor=white)](https://drive.google.com/file/d/1b2yyySPMtE5oQAitSaeInCwnEoHMhQmi/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me</h3>
 
